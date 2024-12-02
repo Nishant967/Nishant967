@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👨‍💻 Nishant Rawat
-### Product Manager | Tech Leader | Entrepreneur
+### Software Product Manager
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawnish)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawat.nishant967@gmail.com)
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Product leader with 11+ years of experience building and scaling technology products. Specialized in taking products from 0-to-1 and delivering measurable business impact through data-driven decision making.
+Experience product manager with 11+ years of experience building and scaling technology products. Specialized in taking products from 0-to-1 and delivering measurable business impact through data-driven decision-making.
 
 <details>
 <summary><h2>✨ Career Highlights</h2></summary>
@@ -31,8 +31,6 @@ Product leader with 11+ years of experience building and scaling technology prod
 ## 💼 Professional Journey
 
 <details open>
-<summary><b>Current Role</b></summary>
-
 ### 🏢 Product Manager @ Procore Technologies
 #### Oct 2023 - Apr 2024
 
