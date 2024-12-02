@@ -40,9 +40,10 @@ Product manager specializing in 0-to-1 product development with a proven track r
 <h3 align="center">Technical</h3>
 
 - System Design
-- API Architecture
+- API
 - SQL
 - Cloud Platforms
+- JIRA & Confluence
 </td>
 <td width="33%">
 <h3 align="center">Leadership</h3>
