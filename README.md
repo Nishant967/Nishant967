@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
   <h1>👋 Hi, I'm Nishant Rawat</h1>
-  <h3>Product Manager turning complex problems into elegant solutions</h3>
+  <h3>Product Manager turning complex problems into meaningful solutions</h3>
 </p>
 
 <!-- Badges/Links -->
@@ -18,12 +18,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-11%2B%20Years-blue" />
   <img src="https://img.shields.io/badge/Products%20Launched-6%2B-green" />
-  <img src="https://img.shields.io/badge/Revenue%20Impact-%241.2M%2B-orange" />
 </p>
 
 <!-- About Section -->
 ## 🚀 About Me
-Product leader specializing in 0-to-1 product development with a proven track record of delivering measurable business impact. My approach combines deep technical knowledge with strong product intuition to create solutions users love.
+Product manager specializing in 0-to-1 product development with a proven track record of delivering measurable business impact. My approach combines deep technical knowledge with strong product intuition to create solutions users love.
 
 <!-- Current Role -->
 ## 💼 Current Role
@@ -32,7 +31,7 @@ Product leader specializing in 0-to-1 product development with a proven track re
 <summary><b>Product Manager @ Procore Technologies</b></summary>
 
 ### Equipment Management Solution
-**Duration**: Oct 2023 - Present
+**Duration**: Oct 2023 - April 2024
 
 📋 **Problem Statement**  
 Construction companies needed a better way to manage their equipment fleet, track utilization, and optimize costs.
