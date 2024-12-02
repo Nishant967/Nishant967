@@ -1,179 +1,159 @@
 <div align="center">
-  
-# 👨‍💻 Nishant Rawat
-### Software Product Manager
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawnish)
+# Nishant Rawat
+## Product Manager
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-r-b1177a2b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawat.nishant967@gmail.com)
-
----
-
-## 🚀 About Me
-
-Experience product manager with 11+ years of experience building and scaling technology products. Specialized in taking products from 0-to-1 and delivering measurable business impact through data-driven decision-making.
-
-<details>
-<summary><h2>✨ Career Highlights</h2></summary>
-
-| Metric | Achievement |
-|--------|------------|
-| 🎯 Revenue Generated | $1.2M+ |
-| 👥 Users Impacted | 100K+ |
-| 📈 Cost Reduction | Up to 90% |
-| 🌟 Products Launched | 6+ |
-
-</details>
 
 </div>
 
----
+## About Me
+Product manager with 11+ years of experience building and scaling technology products. I specialize in taking products from 0-to-1 and delivering measurable business impact through data-driven decision making.
 
-## 💼 Professional Journey
+<div align="center">
 
-<details open>
-### 🏢 Product Manager @ Procore Technologies
-#### Oct 2023 - Apr 2024
+| Overall Impact | |
+|---------------|-------------|
+| Years Experience | 11+ |
+| Revenue Impact | $1.2M+ |
+| Users Impacted | 10K+ |
 
-<table>
-  <tr>
-    <td>
-      <b>Key Achievements:</b><br>
-      ✅ 15+ Customer Discovery Sessions<br>
-      ✅ 25 Enterprise Beta Customers<br>
-      ✅ 12-month Product Roadmap
-    </td>
-    <td>
-      <b>Impact:</b><br>
-      📊 Successful Beta Launch<br>
-      📈 Positive Customer Feedback<br>
-      🎯 Equipment Management Solution
-    </td>
-  </tr>
-</table>
-</details>
+</div>
 
-<details>
-<summary><b>Previous Experiences</b></summary>
+## Featured Projects
 
-### 🏥 Senior Product Manager @ Babylon Health
-#### Jul 2023 - Sep 2023
-```diff
-+ Improved conversation acceptance rates
-+ Optimized clinical agent workflows
-+ Conducted 10 in-depth interviews
-```
+### Equipment Management Solution (Procore Technologies)
+**Role**: Product Manager • Oct 2023 - Apr 2024
 
-### 💻 Product Manager @ Labra
-#### Jan 2021 - Jun 2023
-<table>
-  <tr>
-    <td>💰 $400K ARR</td>
-    <td>⬆️ 90% Time Saved</td>
-    <td>📈 32% Growth</td>
-  </tr>
-</table>
+**Problem Statement**: Construction companies needed a better way to manage their equipment fleet, track utilization, and optimize costs.
 
-### 🎫 Senior Software Engineer @ Jienow
-#### May 2019 - Dec 2020
-- 📊 11% Event Growth
-- ⚡ 23% Faster Onboarding
-- 💰 25% Cost Reduction
+**Process & Execution**:
+- Conducted 15 customer discovery sessions to deeply understand pain points and requirements
+- Developed comprehensive PRDs and success metrics aligned with organizational goals
+- Led cross-functional collaboration across engineering, design, support, and sales teams
 
-### 📱 Technical Manager @ AdCamie
-#### Apr 2017 - Jan 2019
-```js
-{
-  "revenue": "$800K ARR",
-  "scale": "40M Daily Events",
-  "optimization": "55% Cost Reduction"
-}
-```
+**Impact**: 
+- Created and executed 12-month product roadmap based on customer insights
+- Successfully launched closed beta to 25 enterprise customers
+- Achieved positive early customer feedback and validation
 
-### 🚀 Entrepreneurial Ventures
-#### 2015 - 2019
+### Clinical Agent Experience (Babylon Health)
+**Role**: Senior Product Manager • Jul 2023 - Sep 2023
 
-<table>
-  <tr>
-    <th>KlickLeads</th>
-    <th>TryKaro</th>
-  </tr>
-  <tr>
-    <td>
-      🎯 100+ Active Users<br>
-      📈 Social Media Marketing<br>
-      ⚡ Micro SaaS Platform
-    </td>
-    <td>
-      👥 10,000+ Users<br>
-      🛍️ B2B2C Platform<br>
-      🌟 18-Month Growth
-    </td>
-  </tr>
-</table>
+**Problem Statement**: Clinical agents needed a more efficient chat platform to improve conversation acceptance rates and patient care quality.
 
-### 📱 Software Engineer @ Samsung
-#### Jul 2012 - May 2015
-- Galaxy S4 & Note 2 Development
-- Mobile Communication Protocols
-- Android System Integration
+**Process & Execution**:
+- Interviewed 10 clinical agents to understand workflow inefficiencies
+- Analyzed conversation data to identify patterns and bottlenecks
+- Developed improvement recommendations based on qualitative and quantitative insights
 
-</details>
+**Impact**: 
+- Identified key workflow optimizations leading to improved acceptance rates
+- Created data-driven recommendations for platform enhancements
+- Improved clinical agent satisfaction through streamlined workflows
 
----
+### Cloud Commerce Platform (Labra)
+**Role**: Product Manager • Jan 2021 - Jun 2023
 
-## 🛠️ Skills & Expertise
+**Problem Statement**: Cloud partners and solution sellers needed an efficient way to manage marketplace listings and co-selling activities.
+
+**Process & Execution**:
+- Led 0-to-1 development of cloud platform as first product manager
+- Implemented CRM-first strategy based on user feedback
+- Collaborated with AWS Marketplace team on pricing and go-to-market strategy
+
+**Impact**:
+- Reduced marketplace management time by 90%
+- Increased co-selling activities by 32%
+- Achieved $400K in annual recurring revenue
+
+### Event Management Platform (Jienow)
+**Role**: Senior Software Engineer • May 2019 - Dec 2020
+
+**Problem Statement**: Event organizers needed a more efficient self-service platform to manage their events.
+
+**Process & Execution**:
+- Led a team of 3 developers to implement self-service initiatives
+- Transformed monolithic architecture to microservices
+- Collaborated with product, design, and customer success teams
+
+**Impact**:
+- Increased event creation by 11%
+- Improved onboarding speed by 23%
+- Reduced infrastructure costs by 25%
+
+### Ad Campaign Management (AdCamie)
+**Role**: Technical Manager • Apr 2017 - Jan 2019
+
+**Problem Statement**: Digital advertisers needed a scalable platform for media buying and campaign management.
+
+**Process & Execution**:
+- Built AdCamie SaaS platform from ground up as first engineering hire
+- Developed scalable tracking system handling 30-40M events daily
+- Led architecture and technical decisions
+
+**Impact**:
+- Scaled revenue to $800K ARR
+- Reduced ad tracking costs by 55%
+- Built system handling millions of daily events
+
+## Entrepreneurial Projects
+
+### KlickLeads
+**Role**: Founder • Mar 2018 - Apr 2019
+
+**Problem Statement**: Small-scale social media marketers needed tools to optimize ad spending across platforms.
+
+**Impact**:
+- Acquired 100+ active users
+- Built complete micro SaaS solution
+- Optimized ad spend for multiple clients
+
+### TryKaro
+**Role**: Co-Founder • May 2015 - Mar 2017
+
+**Problem Statement**: Need for experiential e-commerce platform connecting brands with consumers.
+
+**Impact**:
+- Acquired 10,000+ users in 18 months
+- Built comprehensive B2B2C platform
+- Established partnerships with multiple brands
+
+## Skills & Expertise
 
 <div align="center">
 
 | Product Management | Technical | Leadership |
 |-------------------|-----------|------------|
-| Product Strategy  | System Design | Stakeholder Management |
-| User Research     | API Architecture | Cross-functional Leadership |
-| PRD Development   | SQL | Product-led Growth |
-| Go-to-Market      | Cloud Platforms | Strategic Planning |
+| Product Strategy | System Design | Stakeholder Management |
+| User Research | API Architecture | Cross-functional Leadership |
+| PRD Development | SQL | Product-led Growth |
+| Go-to-Market | Cloud Platforms | Strategic Planning |
 | Product Analytics | Mobile Protocols | Team Building |
 
 </div>
 
----
+## Education & Certifications
 
-## 📚 Education & Certifications
+**Education**
+- Bachelor of Technology in Computer Science
+- Dehradun Institute of Technology (2008-2012)
 
-<div align="center">
-
-**🎓 B.Tech in Computer Science**  
-Dehradun Institute of Technology (2008-2012)
-
-| Certifications |
-|---------------|
-| Digital Product Management - University of Virginia |
-| Product-Led - Pendo X Mind The Product |
-| AI for Product Management - Pendo X Mind The Product |
-| Entrepreneurship - IIIT Bangalore |
-
-</div>
+**Certifications**
+- Digital Product Management - University of Virginia
+- Product-Led - Pendo X Mind The Product
+- AI for Product Management - Pendo X Mind The Product
+- Entrepreneurship - IIIT Bangalore
 
 ---
 
 <div align="center">
 
-## 📫 Let's Connect
+## Let's Connect
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:rawat.nishant967@gmail.com">
-        📧 Email
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/nishant-r-b1177a2b">
-        💼 LinkedIn
-      </a>
-    </td>
-  </tr>
-</table>
-
-<i>Let's build something amazing together!</i>
+Feel free to reach out for product discussions or opportunities:  
+📧 [rawat.nishant967@gmail.com](mailto:rawat.nishant967@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/nishant-r-b1177a2b)
 
 </div>
