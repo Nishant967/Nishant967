@@ -1,159 +1,204 @@
-<div align="center">
+<!-- Header Banner -->
+<p align="center">
+  <h1>👋 Hi, I'm Nishant Rawat</h1>
+  <h3>Product Manager turning complex problems into elegant solutions</h3>
+</p>
 
-# Nishant Rawat
-## Product Manager
+<!-- Badges/Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishant-r-b1177a2b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rawat.nishant967@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-r-b1177a2b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawat.nishant967@gmail.com)
+<!-- Quick Stats -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-blue" />
+  <img src="https://img.shields.io/badge/Products%20Launched-6%2B-green" />
+  <img src="https://img.shields.io/badge/Revenue%20Impact-%241.2M%2B-orange" />
+</p>
 
-</div>
+<!-- About Section -->
+## 🚀 About Me
+Product leader specializing in 0-to-1 product development with a proven track record of delivering measurable business impact. My approach combines deep technical knowledge with strong product intuition to create solutions users love.
 
-## About Me
-Product manager with 11+ years of experience building and scaling technology products. I specialize in taking products from 0-to-1 and delivering measurable business impact through data-driven decision making.
+<!-- Current Role -->
+## 💼 Current Role
 
-<div align="center">
+<details open>
+<summary><b>Product Manager @ Procore Technologies</b></summary>
 
-| Overall Impact | |
-|---------------|-------------|
-| Years Experience | 11+ |
-| Revenue Impact | $1.2M+ |
-| Users Impacted | 10K+ |
+### Equipment Management Solution
+**Duration**: Oct 2023 - Present
 
-</div>
+📋 **Problem Statement**  
+Construction companies needed a better way to manage their equipment fleet, track utilization, and optimize costs.
 
-## Featured Projects
+🎯 **Key Metrics**
+- 15+ Customer discovery sessions
+- 25 Enterprise beta customers
+- 12-month Product roadmap
 
-### Equipment Management Solution (Procore Technologies)
-**Role**: Product Manager • Oct 2023 - Apr 2024
+💡 **Impact**
+- Developed comprehensive PRDs & success metrics
+- Led cross-functional collaboration
+- Achieved positive early customer validation
+</details>
 
-**Problem Statement**: Construction companies needed a better way to manage their equipment fleet, track utilization, and optimize costs.
+<!-- Previous Experience -->
+## 📈 Previous Experience
 
-**Process & Execution**:
-- Conducted 15 customer discovery sessions to deeply understand pain points and requirements
-- Developed comprehensive PRDs and success metrics aligned with organizational goals
-- Led cross-functional collaboration across engineering, design, support, and sales teams
+<details>
+<summary><b>Senior Product Manager @ Babylon Health (Jul 2023 - Sep 2023)</b></summary>
 
-**Impact**: 
-- Created and executed 12-month product roadmap based on customer insights
-- Successfully launched closed beta to 25 enterprise customers
-- Achieved positive early customer feedback and validation
+### Clinical Agent Experience Optimization
 
-### Clinical Agent Experience (Babylon Health)
-**Role**: Senior Product Manager • Jul 2023 - Sep 2023
+📋 **Problem Statement**  
+Clinical agents needed a more efficient chat platform to improve conversation acceptance rates and patient care quality.
 
-**Problem Statement**: Clinical agents needed a more efficient chat platform to improve conversation acceptance rates and patient care quality.
+🎯 **Key Achievements**
+- Conducted 10 clinical agent interviews
+- Analyzed workflow inefficiencies
+- Improved conversation acceptance rates
+</details>
 
-**Process & Execution**:
-- Interviewed 10 clinical agents to understand workflow inefficiencies
-- Analyzed conversation data to identify patterns and bottlenecks
-- Developed improvement recommendations based on qualitative and quantitative insights
+<details>
+<summary><b>Product Manager @ Labra (Jan 2021 - Jun 2023)</b></summary>
 
-**Impact**: 
-- Identified key workflow optimizations leading to improved acceptance rates
-- Created data-driven recommendations for platform enhancements
-- Improved clinical agent satisfaction through streamlined workflows
+### Cloud Commerce Platform
 
-### Cloud Commerce Platform (Labra)
-**Role**: Product Manager • Jan 2021 - Jun 2023
+📋 **Problem Statement**  
+Cloud partners and solution sellers needed an efficient way to manage marketplace listings and co-selling activities.
 
-**Problem Statement**: Cloud partners and solution sellers needed an efficient way to manage marketplace listings and co-selling activities.
+🎯 **Key Metrics**
+```js
+{
+  "Revenue": "$400K ARR",
+  "Efficiency": "90% Time Saved",
+  "Growth": "32% Co-selling Increase"
+}
+```
+</details>
 
-**Process & Execution**:
-- Led 0-to-1 development of cloud platform as first product manager
-- Implemented CRM-first strategy based on user feedback
-- Collaborated with AWS Marketplace team on pricing and go-to-market strategy
+<details>
+<summary><b>Senior Software Engineer @ Jienow (May 2019 - Dec 2020)</b></summary>
 
-**Impact**:
-- Reduced marketplace management time by 90%
-- Increased co-selling activities by 32%
-- Achieved $400K in annual recurring revenue
+### Event Management Platform
 
-### Event Management Platform (Jienow)
-**Role**: Senior Software Engineer • May 2019 - Dec 2020
+📊 **Impact Metrics**
+- 📈 11% Event growth
+- ⚡ 23% Faster onboarding
+- 💰 25% Cost reduction
+</details>
 
-**Problem Statement**: Event organizers needed a more efficient self-service platform to manage their events.
+<details>
+<summary><b>Technical Manager @ AdCamie (Apr 2017 - Jan 2019)</b></summary>
 
-**Process & Execution**:
-- Led a team of 3 developers to implement self-service initiatives
-- Transformed monolithic architecture to microservices
-- Collaborated with product, design, and customer success teams
+### Ad Campaign Management Platform
 
-**Impact**:
-- Increased event creation by 11%
-- Improved onboarding speed by 23%
-- Reduced infrastructure costs by 25%
+🎯 **Key Achievements**
+- Built platform handling 30-40M daily events
+- Scaled to $800K ARR
+- Reduced tracking costs by 55%
+</details>
 
-### Ad Campaign Management (AdCamie)
-**Role**: Technical Manager • Apr 2017 - Jan 2019
+<!-- Entrepreneurial Journey -->
+## 🚀 Entrepreneurial Journey
 
-**Problem Statement**: Digital advertisers needed a scalable platform for media buying and campaign management.
+<table>
+<tr>
+<td width="50%">
 
-**Process & Execution**:
-- Built AdCamie SaaS platform from ground up as first engineering hire
-- Developed scalable tracking system handling 30-40M events daily
-- Led architecture and technical decisions
+### KlickLeads (2018-2019)
+🎯 **Focus**: Social Media Marketing Optimization
+- 100+ Active users
+- Complete micro SaaS solution
+- Ad spend optimization platform
 
-**Impact**:
-- Scaled revenue to $800K ARR
-- Reduced ad tracking costs by 55%
-- Built system handling millions of daily events
+</td>
+<td width="50%">
 
-## Entrepreneurial Projects
+### TryKaro (2015-2017)
+🛍️ **Focus**: Experiential E-commerce
+- 10,000+ Users acquired
+- B2B2C platform
+- Multiple brand partnerships
 
-### KlickLeads
-**Role**: Founder • Mar 2018 - Apr 2019
+</td>
+</tr>
+</table>
 
-**Problem Statement**: Small-scale social media marketers needed tools to optimize ad spending across platforms.
+<!-- Skills -->
+## 🛠️ Skills & Expertise
 
-**Impact**:
-- Acquired 100+ active users
-- Built complete micro SaaS solution
-- Optimized ad spend for multiple clients
+<table>
+<tr>
+<td width="33%">
+<h3 align="center">Product Management</h3>
 
-### TryKaro
-**Role**: Co-Founder • May 2015 - Mar 2017
+- Product Strategy
+- User Research
+- PRD Development
+- Go-to-Market
+- Product Analytics
+</td>
+<td width="33%">
+<h3 align="center">Technical</h3>
 
-**Problem Statement**: Need for experiential e-commerce platform connecting brands with consumers.
+- System Design
+- API Architecture
+- SQL
+- Cloud Platforms
+- Mobile Protocols
+</td>
+<td width="33%">
+<h3 align="center">Leadership</h3>
 
-**Impact**:
-- Acquired 10,000+ users in 18 months
-- Built comprehensive B2B2C platform
-- Established partnerships with multiple brands
+- Stakeholder Management
+- Cross-functional Teams
+- Product-led Growth
+- Strategic Planning
+- Team Building
+</td>
+</tr>
+</table>
 
-## Skills & Expertise
+<!-- Education & Certifications -->
+## 📚 Education & Certifications
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| Product Management | Technical | Leadership |
-|-------------------|-----------|------------|
-| Product Strategy | System Design | Stakeholder Management |
-| User Research | API Architecture | Cross-functional Leadership |
-| PRD Development | SQL | Product-led Growth |
-| Go-to-Market | Cloud Platforms | Strategic Planning |
-| Product Analytics | Mobile Protocols | Team Building |
+### Education
+🎓 **B.Tech in Computer Science**  
+Dehradun Institute of Technology (2008-2012)
 
-</div>
+</td>
+<td width="50%">
 
-## Education & Certifications
-
-**Education**
-- Bachelor of Technology in Computer Science
-- Dehradun Institute of Technology (2008-2012)
-
-**Certifications**
-- Digital Product Management - University of Virginia
-- Product-Led - Pendo X Mind The Product
-- AI for Product Management - Pendo X Mind The Product
+### Certifications
+- Digital Product Management - UVA
+- Product-Led - Pendo X MTP
+- AI for Product Management
 - Entrepreneurship - IIIT Bangalore
 
+</td>
+</tr>
+</table>
+
+<!-- Footer -->
+<p align="center">
+  <h3>💬 Let's Connect!</h3>
+  <i>Open to discussing product opportunities and collaborations</i>
+  <br><br>
+  <img src="https://img.shields.io/badge/Email-rawat.nishant967%40gmail.com-red" />
+</p>
+
 ---
-
-<div align="center">
-
-## Let's Connect
-
-Feel free to reach out for product discussions or opportunities:  
-📧 [rawat.nishant967@gmail.com](mailto:rawat.nishant967@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/nishant-r-b1177a2b)
-
-</div>
+<p align="center">
+  <i>This README is a living document and updated regularly.</i>
+</p>
