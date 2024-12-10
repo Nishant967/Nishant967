@@ -4,14 +4,14 @@
 </p>
 
 <!-- Badges/Links -->
-<p align="center">
-  <!--<a href="https://www.linkedin.com/in/rawnish">
+<!--<p align="center">
+  <a href="https://www.linkedin.com/in/rawnish">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>-->
+  </a>
   <a href="mailto:rawat.nishant967@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</p>-->
 
 <!-- Quick Stats -->
 <p align="center">
@@ -75,8 +75,8 @@ Dehradun Institute of Technology (2008-2012)
 <p align="center">
   <h3>💬 Let's Connect!</h3>
   <i>Open to discussing product opportunities and collaborations</i>
-  <br><br>
-  <img src="https://img.shields.io/badge/Email-rawat.nishant967%40gmail.com-red" />
+  <br><be>
+ <!-- <img src="https://img.shields.io/badge/Email-rawat.nishant967%40gmail.com-red" />-->
 </p>
 
 ---
